@@ -17,6 +17,11 @@ export const navBarArr = [
   },
   {
     key: 4,
+    title: "Projects",
+    path: "",
+  },
+  {
+    key: 5,
     title: "Contact Me",
     path: "",
   },
