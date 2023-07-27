@@ -20,7 +20,7 @@ const LandingPage = () => {
             </h2>
           </div>
         </div>
-        <div className="w-full mt-20 mb-20 md:w-1/2 order-1 md:order-2 transform hover:">
+        <div className="w-full mt-20 mb-20 md:w-1/2 order-1 md:order-2">
           <img src="intro.png" alt="Image" className="w-auto" />
         </div>
       </div>
