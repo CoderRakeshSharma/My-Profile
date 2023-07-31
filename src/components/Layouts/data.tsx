@@ -3,26 +3,26 @@ export const navBarArr = [
   {
     key: 1,
     title: "About Me",
-    path: "",
+    path: "/src/pages/AboutMe",
   },
   {
     key: 2,
     title: "My Skills",
-    path: "",
+    path: "/src/pages/MySkills.tsx",
   },
   {
     key: 3,
     title: "Achievements",
-    path: "",
+    path: "/src/pages/Achievements.tsx",
   },
   {
     key: 4,
-    title: "Projects",
-    path: "",
+    title: "My Projects",
+    path: "/src/pages/MyProjects.tsx",
   },
   {
     key: 5,
     title: "Contact Me",
-    path: "",
+    path: "/src/pages/ContactMe.tsx",
   },
 ];
